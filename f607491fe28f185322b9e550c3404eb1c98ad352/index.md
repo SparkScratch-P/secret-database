@@ -9,9 +9,26 @@
 <li>Don&#39;t save links in files or Browsing History.</li>
 </ul>
 <h4 id="maintain-honesty-on-accessing-files-">Maintain honesty on accessing files.</h4>
-<p><a href="https://sparkscratch-p.github.io/EvalJS/">
-         <img src="https://sparkscratch-p.github.io/cooltext379003618193795.png" onmouseover="this.src='https://raw.githubusercontent.com/SparkScratch-P/sparkscratch-p.github.io/main/cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
-      </a></p>
+
+<p>Copy to open in Secret browser only if Clipboard History is disabled. </p>
+
+<input type="text" value="my URL" id="myInput">
+<button onclick="myFunction()">Copy text</button>
+
+<script>
+function myFunction() {
+  var copyText = document.getElementById("myInput");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Copied the text: " + copyText.value);
+}
+</script>
+
+<p><a href="my URL">Open link If you are already in unmonitored network.</a></p>
+
+
+
 <hr>
 <p> <a href="https://sparkscratch-p.github.io/">SparkScratch-P</a></p>
 <blockquote>
