@@ -1,4 +1,4 @@
-<html>
+
 <h1 id="warning-">WARNING!!!</h1>
 <h2 id="the-following-link-may-contain-sensitive-data-on-national-personal-official-or-intelligence-interests-">The following link may contain sensitive data on national, personal, official, or intelligence interests.</h2>
 <hr>
@@ -37,4 +37,4 @@ function myFunction() {
 <p>View the page on <a href="https://github.com/SparkScratch-P/secret-database">Github</a> to modify and use to protect data.(Read <a href="https://github.com/SparkScratch-P/secret-database#secret-database">Guide</a> )</p>
 <p>Your data is secure as long as no one has access to the source code.</p>
 </blockquote>
-</html>
+
