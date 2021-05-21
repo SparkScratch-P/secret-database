@@ -1,2 +1,2 @@
-# secret-database
-Secret Databse Directory password web-sheild
+# Secret-Database
+A web-based URl shield to protect your shared cloud storage link from unauthorised access.
