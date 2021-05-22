@@ -14,7 +14,7 @@
 <p>Copy to open in Secret browser only if Clipboard History is disabled. </p>
 
 <input type="text" value="my URL" id="myInput">
-<button onclick="myFunction()">Copy text</button>
+<button onclick="myFunction()">Copy URL</button>
 
 <script>
 function myFunction() {
@@ -26,7 +26,6 @@ function myFunction() {
 }
 </script>
 
-<p><a href="my URL">Open link If you are already in unmonitored network.</a></p>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
