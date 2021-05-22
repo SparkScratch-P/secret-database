@@ -27,6 +27,31 @@ function myFunction() {
 </script>
 
 <p><a href="my URL">Open link If you are already in unmonitored network.</a></p>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
+</head>
+
+
+
+
+<a href="My Url"><button class="btn" style="width:100%"><i class="download"></i> Download</button></a>
+
 
 
 
