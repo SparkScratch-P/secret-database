@@ -45,16 +45,7 @@ function myFunction() {
   background-color: RoyalBlue;
 }
 </style>
-</head>
-
-
-
-
-<a href="My Url"><button class="btn" style="width:100%"><i class="download"></i> Download</button></a>
-
-
-
-
+<a href="My Url"><button class="btn" style="width:100%"><i class="download"></i>Access Protected Data</button></a>
 <hr>
 <p> <a href="https://sparkscratch-p.github.io/">SparkScratch-P</a></p>
 <blockquote>
