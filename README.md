@@ -8,7 +8,7 @@ A web-based URL shield to protect your shared cloud storage link from unauthoris
  ## Check out:
  
 - Go to https://sparkscratch-p.github.io/secret-database/
-- Try with Password `secret`
+- Try with Password `vikrampanchabinshati`
  
  ## Create Your own Database
  
