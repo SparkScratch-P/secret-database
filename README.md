@@ -19,7 +19,7 @@ A web-based URL shield to protect your shared cloud storage link from unauthoris
  - Upload the `index.html` document and the background image to your static hosting service.
  - Open a [SHA1 Generator](https://emn178.github.io/online-tools/sha1.html) and create the SHA1 hash of ur desired password.
  - Create a folder with that SHA1 has as the name in the same directory as 'index.html' file.
- - Inside the folder, upload another `index.html` (U can upload any index file a per your choice) file, as here in the `e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4` directory.
+ - Inside the folder, upload another `index.html` (U can upload any index file a per your choice) file, as here in the `eb91ac12a134626cc4d4e84ec5ff4d338cf2fedb` directory.
  - Make necessary edits in that `index` file. ***If you are using my file, just put the link to be secure in places of `my URl` and edit txts as required.***
 
 The final structure will be:
