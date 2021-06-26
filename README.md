@@ -1,6 +1,7 @@
  # Secret-Database
 A web-based URL shield to protect your shared cloud storage link from unauthorised access.
 ---
+<img src="https://github.com/SparkScratch-P/secret-database/blob/main/slide-lock-screen-android-computer-software-android-fc77b21ba9f26385df47c0485ad6c974.png?raw=true" alt="sdtbs" width="120"/>
 
  It works as creating a web page that acts as the sheild between the search-engine and another web page (part of this project) that will lead to a link for the target data. This may be used as a security sheild to protect cloud data of an institution, intelligence, sensitive data or personal data of special interests. One can easily secure files with this toolkit.
   This simple HTML document helps you protecting static pages or whole websites with no server configuration required: you can now use Dropbox, Amazon S3 or any generic hosting service to host a private, password protected site.
